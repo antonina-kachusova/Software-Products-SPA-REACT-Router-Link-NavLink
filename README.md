@@ -53,7 +53,7 @@ For the responsive navigation, I used `useState` to open and close the mobile bu
 ## Getting Started
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/software-products-spa.git
+git clone https://github.com/antonina-kachusova/Software-Products-SPA-REACT-Router-Link-NavLink.git
 cd software-products-spa
 ```
 
